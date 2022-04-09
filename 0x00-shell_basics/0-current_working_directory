@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 pwd
+=======
+/0x00-shell_basics
+>>>>>>> 29e3db8ccebe201e036d86c20efd48e5e31f8f22
